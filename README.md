@@ -1,2 +1,6 @@
-# RaeJoKae.github.io
-https://raejokae.github.io/PCDE-Activity-9.1/
+# My Portfolio
+
+Welcome to my GitHub Pages portfolio!  
+
+## Projects
+- [9.1 Activity] (https://raejokae.github.io/PCDE-Activity-9.1)
